@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-http-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
